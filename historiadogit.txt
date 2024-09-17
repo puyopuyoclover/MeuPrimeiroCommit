@@ -1,0 +1,13 @@
+# Historia do git 
+O Git é um sistema de controle de versão distribuído criado por Linus Torvalds em 2005, o mesmo criador do Linux. Ele foi desenvolvido para lidar com o desenvolvimento do kernel do Linux, um projeto grande e com múltiplos colaboradores, onde era essencial manter um histórico claro e seguro de todas as alterações de código.
+Antes do Git, o kernel do Linux utilizava um sistema de controle de versão chamado BitKeeper, que era parcialmente proprietário. Em 2005, a licença gratuita do BitKeeper foi revogada, levando Linus Torvalds a desenvolver seu próprio sistema, que pudesse atender às necessidades da comunidade open source.
+
+**Características Principais**
+O Git foi projetado com alguns princípios importantes:
+
+Desempenho: Torvalds queria algo rápido e eficiente, capaz de lidar com grandes projetos.
+Distribuído: Cada desenvolvedor tem uma cópia completa do repositório, incluindo todo o histórico de mudanças. Isso permite que todos trabalhem de forma independente, sem depender de um servidor central.
+Segurança: Git utiliza SHA-1 (um algoritmo de hash) para garantir a integridade dos dados, evitando a corrupção ou alteração não autorizada do histórico de versões.
+Evolução
+Com o tempo, o Git se tornou o sistema de controle de versão mais popular, sendo amplamente adotado não só em projetos open source, mas também em empresas e organizações. Ferramentas como GitHub, GitLab e Bitbucket ajudaram a popularizar ainda mais o Git, criando plataformas colaborativas para hospedar repositórios e facilitar o trabalho em equipe.
+A flexibilidade e a robustez do Git o tornam uma escolha praticamente universal para o gerenciamento de código, especialmente em equipes de desenvolvimento que precisam colaborar em projetos complexos.
